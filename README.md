@@ -1,4 +1,4 @@
-# Atividades de python
+# Atividades de C
 Lucas Cordeiro Pacheco
 
-Aqui postarei todos os meus projetos que fiz em python.
+Aqui postarei todas as atividadesque fiz em C.
